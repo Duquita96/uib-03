@@ -1,0 +1,1 @@
+in this exercise we declare the class and IDs, after that we declare the rules in the css for style
